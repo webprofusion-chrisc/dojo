@@ -1,7 +1,7 @@
 # CoderDojo
 
 Python Hello World
-https://projects.raspberrypi.org/en/projects/about-me
+(https://projects.raspberrypi.org/en/projects/about-me)
 
 Roc Paper Scissors
 https://projects.raspberrypi.org/en/projects/rock-paper-scissors
