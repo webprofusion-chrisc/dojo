@@ -21,3 +21,4 @@ https://projects.raspberrypi.org/en/projects/robo-trumps
 
 
 Future Tasks
+- Web API calls, chat, AI, Sound, 3D
