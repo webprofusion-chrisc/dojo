@@ -7,7 +7,7 @@ Roc Paper Scissors
 https://projects.raspberrypi.org/en/projects/rock-paper-scissors
 
 Python Drawing (Turtle)
-https://trinket.io/python/d44cf512
+https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code
 
 Trinket Python Reference:
 https://trinket.io/docs/python
@@ -18,3 +18,6 @@ https://projects.raspberrypi.org/en/projects/colourful-creations
 Robo-Trumps
 https://projects.raspberrypi.org/en/projects/robo-trumps
 
+
+
+Future Tasks
