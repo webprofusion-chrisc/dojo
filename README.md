@@ -1,10 +1,15 @@
 # CoderDojo
 
+[Python Drawing (Turtle)](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
+
+
+------------
+
 [Python Hello World](https://projects.raspberrypi.org/en/projects/about-me)
 
 [Rock Paper Scissors](https://projects.raspberrypi.org/en/projects/rock-paper-scissors)
 
-[Python Drawing (Turtle)](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
+
 
 [Trinket Python Reference](https://trinket.io/docs/python)
 
@@ -15,4 +20,4 @@
 
 
 Future Tasks
-- Web API calls, chat, AI, Sound, 3D
+- Web API calls, chat, AI, Sound, [3D](https://dojo3d.webprofusion.com/)
