@@ -1,6 +1,6 @@
 # CoderDojo
 
-[Insult Generator](https://replit.com/@webprofusionchr/insults)
+[Olympic Race](https://scratch.mit.edu/projects/557505298)
 
 
 ------------
@@ -19,6 +19,7 @@
 
 [Dojo 3D- Halloween Storybook](https://repl.it/@webprofusionchr/dojo3d-halloween)
 
+[Insult Generator](https://replit.com/@webprofusionchr/insults)
 
 # Future Tasks
 - Web API calls, chat, AI, Sound, [3D](https://dojo3d.webprofusion.com/)
