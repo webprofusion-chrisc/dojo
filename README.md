@@ -1,6 +1,8 @@
 # CoderDojo
 
-[Olympic Race](https://scratch.mit.edu/projects/557505298)
+
+[Weather Forecast](https://replit.com/@webprofusionchr/weather)
+
 
 
 ------------
@@ -20,6 +22,8 @@
 [Dojo 3D- Halloween Storybook](https://repl.it/@webprofusionchr/dojo3d-halloween)
 
 [Insult Generator](https://replit.com/@webprofusionchr/insults)
+
+[Olympic Race](https://scratch.mit.edu/projects/557505298)
 
 # Future Tasks
 - Web API calls, chat, AI, Sound, [3D](https://dojo3d.webprofusion.com/)
