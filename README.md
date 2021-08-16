@@ -1,9 +1,6 @@
 # CoderDojo
 
-
-[Weather Forecast](https://replit.com/@webprofusionchr/weather)
-
-
+[Solar System 3D](https://replit.com/@webprofusionchr/solarsystem)
 
 ------------
 
@@ -24,6 +21,8 @@
 [Insult Generator](https://replit.com/@webprofusionchr/insults)
 
 [Olympic Race](https://scratch.mit.edu/projects/557505298)
+
+[Weather Forecast](https://replit.com/@webprofusionchr/weather)
 
 # Future Tasks
 - Web API calls, chat, AI, Sound, [3D](https://dojo3d.webprofusion.com/)
