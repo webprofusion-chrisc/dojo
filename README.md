@@ -1,5 +1,8 @@
 # CoderDojo
 
+[Sign in the Repl.it](https://replit.com/)
+
+Then create a fork of: 
 [Solar System 3D](https://replit.com/@webprofusionchr/solarsystem)
 
 ------------
